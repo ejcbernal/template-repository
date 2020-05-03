@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
  
 ## License
 ```
-<one line to give the program's name and a brief idea of what it does.>
+    Template Repository for testing
     Copyright (C) 2020 Ezekiel Bernal
 
     This program is free software: you can redistribute it and/or modify
