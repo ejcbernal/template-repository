@@ -14,7 +14,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## References/bibliography
  - http://citationmachine.net/ <-- This can help
  
-## License
+## LICENSE
 ```
 Template Repository for testing
 Copyright (C) 2020 Ezekiel Bernal
