@@ -1,7 +1,4 @@
-# lazarus_session
-
-
-Lazarus
+Template Practice
 ====
 
 ### Overview
