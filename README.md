@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
  - word itself
 
 ## References/bibliography
- - Something
+ - http://citationmachine.net/ <-- This can help
  
 ## License
 ```
@@ -32,6 +32,3 @@ GNU Affero General Public License for more details.
 You should have received a copy of the GNU Affero General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 ```
-
-
-http://citationmachine.net/
